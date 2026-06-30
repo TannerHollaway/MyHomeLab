@@ -9,5 +9,5 @@ A multi-part project building and securing a home enterprise network from the gr
 | 3 | [Windows Server 2022 Active Directory Domain](https://github.com/TannerHollaway/Windows-Server-2022-Active-Directory-Domain) | Standing up a domain to centrally manage devices and enforce policy |
 | 4 | [Domain Expansion & Security Instrumentation](https://github.com/TannerHollaway/Domain-Expansion-Security-Instrumentation) | Hardening the domain and deploying Sysmon-based telemetry |
 | 5 | [Splunk SIEM, Logging & Attack Simulation](https://github.com/TannerHollaway/Settinup-Up-Splunk-and-Simulating-attacks) | Ingesting logs, simulating attacks, and performing detection/log review |
-| 6 | [Network Visibility & Correlation](wip) | WIP
-| 7 | [Endpoint & Vulnerability Operations](wip) | WIP
+| 6 | [Network Visibility & Correlation](https://github.com/TannerHollaway/Network-Visibility-Correlation) | WIP
+| 7 | [Endpoint & Vulnerability Operations](https://github.com/TannerHollaway/Endpoint-Vulnerability-Operations) | WIP
