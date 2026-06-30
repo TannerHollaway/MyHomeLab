@@ -1,11 +1,11 @@
-WIP outline
+## Home Lab Series
 
-### Part 1 [Setting up OPNsense to replace my home router](https://github.com/TannerHollaway/ReplacingHomeRouterWithOPNsense)
+A multi-part project building and securing a home enterprise network from the ground up.
 
-### Part 2 [Creating 3 VLANs to segment my network](https://github.com/TannerHollaway/VLAN-Segmentation-and-Multi-SSID-Wireless-Setup)
-
-### Part 3[Creating a domain to add devices and enforce policies](https://github.com/TannerHollaway/Windows-Server-2022-Active-Directory-Domain)
-
-### Part 4[Domain Expansion & Security Instrumentation](https://github.com/TannerHollaway/Domain-Expansion-Security-Instrumentation)
-
-### Part 5[Setting up slunk,logging, and simulating attacks,and log review](https://github.com/TannerHollaway/Settinup-Up-Splunk-and-Simulating-attacks)
+| Part | Project | Description |
+|------|---------|-------------|
+| 1 | [Replacing My Home Router with OPNsense](https://github.com/TannerHollaway/ReplacingHomeRouterWithOPNsense) | Deploying OPNsense as a full-featured firewall and router |
+| 2 | [VLAN Segmentation & Multi-SSID Wireless](https://github.com/TannerHollaway/VLAN-Segmentation-and-Multi-SSID-Wireless-Setup) | Segmenting the network into three isolated VLANs |
+| 3 | [Windows Server 2022 Active Directory Domain](https://github.com/TannerHollaway/Windows-Server-2022-Active-Directory-Domain) | Standing up a domain to centrally manage devices and enforce policy |
+| 4 | [Domain Expansion & Security Instrumentation](https://github.com/TannerHollaway/Domain-Expansion-Security-Instrumentation) | Hardening the domain and deploying Sysmon-based telemetry |
+| 5 | [Splunk SIEM, Logging & Attack Simulation](https://github.com/TannerHollaway/Settinup-Up-Splunk-and-Simulating-attacks) | Ingesting logs, simulating attacks, and performing detection/log review |
